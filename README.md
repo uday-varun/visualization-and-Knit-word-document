@@ -1,4 +1,4 @@
-# visualization-in-R - IPL dataset
+# visualization and knit word document using R-Markdown
 
 ---
 title: "ANALYSIS ON IPL MATCH RESULTS DATASET"
